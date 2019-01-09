@@ -1,0 +1,35 @@
+# scsi
+  Small Computer System Interface - A set of standards for 
+  connecting and transferring data between a computer and peripheral device.
+  
+  scsi cabling can include:
+    - Parallel SCSI (ribbon cables)
+    - Fibre Channel (FCP is fibre channel protocol for scsi)
+    - SAS (Serial Attached scsi - Serial ATA)
+    - iSCSI (Usually Ethernet cable, but can be any physical device that transports IP).
+    - SRP (SCSI RDMA protocol, RDMA-capable transport: Infiniband, Ethernet+[RoCE/iWARP])
+    - USB attached SCSI
+    - ADT (Automation Drive Interface)
+  
+  
+  
+  
+iscsi
+iser
+fc
+sas
+vdisk
+vhba
+lun
+nfs
+smb
+nas
+san
+block storage
+file storage
+enctyprion
+compression
+raid levels
+RoCE
+iWARP
+sr-iov?
